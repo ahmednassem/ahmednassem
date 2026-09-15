@@ -38,9 +38,3 @@ Custom system call (`nr 78`, prints from OS space) added to MINIX 3.1.0 (Tanenba
 **AI / ML:** LLM pipelines RAG TTS (ElevenLabs + Web Speech API) geometry-aware generation
 
 ---
-
-## Principles
-
-- **Real artifacts, not slides.** Every project on this page is a working system you can click through. No mockups.
-- **Honest limits.** Each design doc has a section called "honest limits" that says what the system *won't* do.
-- **Ship the whole thing.** Build, write, deploy, document - every project in one go.
