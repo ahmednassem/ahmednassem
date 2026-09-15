@@ -16,18 +16,18 @@ An AI whose entire interface is one glowing line. It speaks, and it draws its an
 #### 🧊 RubikCube - `ahmednassem/rubikcube`
 Interactive 3D Rubik's Cube in the browser: drag-to-rotate, scramble, solve (Kociemba / CFOP / Roux / ZZ), webcam scanner, and a serial-connected Arduino robot that solves the physical cube. [Live demo](https://ahmednassem.com/projects/rubikcube/)
 
-#### 🛠   🛠 - `ahmednassem/forge3d`
+#### 🛠   FORGE3D - `ahmednassem/forge3d`
 Browser-based 3D workspace editor built from scratch. FastAPI backend, Three.js renderer, live JS-scripted objects, save/load JSON scenes. [Live demo](https://ahmednassem.com/projects/forge3d/)
 
-#### 🧬     🧬 Kernel Hacking - `ahmednassem/minix`
-Custom system call (`nr 78`, prints from OS space) added to 🧬 3.1.0 (Tanenbaum). Patches the kernel, rebuilds the ISO, and runs live in your browser through a WebAssembly x86 emulator. [Live demo](https://ahmednassem.com/projects/minix/)
+#### 🧬     MINIX Kernel Hacking - `ahmednassem/minix`
+Custom system call (`nr 78`, prints from OS space) added to MINIX 3.1.0 (Tanenbaum). Patches the kernel, rebuilds the ISO, and runs live in your browser through a WebAssembly x86 emulator. [Live demo](https://ahmednassem.com/projects/minix/)
 
 ### Designed (not built)
 
 #### 🏥   CARE-IHS - `ahmednassem/care-ihs`
 Design. Integrated Health System - patient records, AI triage, emergency mode. Healthcare that survives when the network does not. [Design doc](https://ahmednassem.com/designs/care-ihs/)
 
-#### 🛰       🛰 - `ahmednassem/tun`
+#### 🛰       TUN - `ahmednassem/tun`
 Design. The Universal Network - a rights-based internet alternative. Peer-to-peer, encrypted identity, no platform tax. [Design doc](https://ahmednassem.com/designs/tun/)
 
 ---
@@ -36,8 +36,9 @@ Design. The Universal Network - a rights-based internet alternative. Peer-to-pee
 
 **Languages:** Python TypeScript JavaScript C PowerShell SQL Bash
 **Web:** Next.js React Three.js Tailwind FastAPI WebSockets
-**Systems:** Linux 🧬 QEMU Arduino / PlatformIO OpenCV WebAssembly (v86)
+**Systems:** Linux MINIX QEMU Arduino / PlatformIO OpenCV WebAssembly (v86)
 **Infra:** Hetzner VPS nginx Let's Encrypt systemd
 **AI / ML:** LLM pipelines RAG TTS (ElevenLabs + Web Speech API) geometry-aware generation
 
 ---
+
