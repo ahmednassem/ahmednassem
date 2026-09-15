@@ -3,7 +3,6 @@
 I'm an independent builder working on interactive software, operating systems, and systems design. Most of what I ship lives on the web as a live demo, then gets a real write-up behind it.
 
 - 🌐 **Website:** [ahmednassem.com](https://ahmednassem.com)
-- 💬 **Telegram:** [@ahmednassem](https://t.me/ahmednassem)
 
 ---
 
@@ -45,7 +44,3 @@ Custom system call (`nr 78`, prints from OS space) added to MINIX 3.1.0 (Tanenba
 - **Real artifacts, not slides.** Every project on this page is a working system you can click through. No mockups.
 - **Honest limits.** Each design doc has a section called "honest limits" that says what the system *won't* do.
 - **Ship the whole thing.** Build, write, deploy, document — every project in one go.
-
----
-
-![banner](.github/social-preview.png)
