@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed 
+# Hi, I'm Ahmed
 
 I'm an independent builder working on interactive software, operating systems, and systems design. Most of what I ship lives on the web as a live demo, then gets a real write-up behind it.
 
@@ -6,6 +6,7 @@ I'm an independent builder working on interactive software, operating systems, a
 
 ---
 
+## What I'm building right now
 
 ### Built
 
@@ -29,6 +30,8 @@ Design. Integrated Health System - patient records, AI triage, emergency mode. H
 
 #### 🛰       TUN - hmednassem/tun
 Design. The Universal Network - a rights-based internet alternative. Peer-to-peer, encrypted identity, no platform tax. [Design doc](https://ahmednassem.com/designs/tun/)
+
+---
 
 ## Stack
 
