@@ -8,23 +8,23 @@ I'm an independent builder working on interactive software, operating systems, a
 
 ## What I'm building right now
 
-### [The Line](https://ahmednassem.com/projects/theline/) - `ahmednassem/theline`
+### 🧵   [The Line](https://ahmednassem.com/projects/theline/) - `ahmednassem/theline`
 An AI whose entire interface is one glowing line. It speaks, and it draws its answers.
 Plan-first LLM pipeline + a geometry verifier that measures every label and arrow before it is drawn, with knowledge distilled from 3Blue1Brown's actual published video source code.
 
-### [RubikCube](https://ahmednassem.com/projects/rubikcube/) - `ahmednassem/rubikcube`
+### 🧊 [RubikCube](https://ahmednassem.com/projects/rubikcube/) - `ahmednassem/rubikcube`
 Interactive 3D Rubik's Cube in the browser: drag-to-rotate, scramble, solve (Kociemba / CFOP / Roux / ZZ), webcam scanner, and a serial-connected Arduino robot that solves the physical cube.
 
-### [FORGE3D](https://ahmednassem.com/projects/forge3d/) - `ahmednassem/forge3d`
+### 🛠   [FORGE3D](https://ahmednassem.com/projects/forge3d/) - `ahmednassem/forge3d`
 Browser-based 3D workspace editor built from scratch. FastAPI backend, Three.js renderer, live JS-scripted objects, save/load JSON scenes.
 
-### [MINIX Kernel Hacking](https://ahmednassem.com/projects/minix/) - `ahmednassem/minix`
+### 🧬     [MINIX Kernel Hacking](https://ahmednassem.com/projects/minix/) - `ahmednassem/minix`
 Custom system call (`nr 78`, prints from OS space) added to MINIX 3.1.0 (Tanenbaum). Patches the kernel, rebuilds the ISO, and runs live in your browser through a WebAssembly x86 emulator.
 
-### [CARE-IHS](https://ahmednassem.com/designs/care-ihs/) - `ahmednassem/care-ihs`
+### 🏥   [CARE-IHS](https://ahmednassem.com/designs/care-ihs/) - `ahmednassem/care-ihs`
 **Design.** Integrated Health System - patient records, AI triage, emergency mode. Healthcare that survives when the network doesn't.
 
-### [TUN](https://ahmednassem.com/designs/tun/) - `ahmednassem/tun`
+### 🛰       [TUN](https://ahmednassem.com/designs/tun/) - `ahmednassem/tun`
 **Design.** The Universal Network - a rights-based internet alternative. Peer-to-peer, encrypted identity, no platform tax.
 
 ---
